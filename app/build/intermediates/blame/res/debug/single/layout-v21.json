@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\XII\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Users\\Wildan\\.android\\build-cache\\43d39dcfadcd4cac838a9881ed21680c2e6024d7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\XII\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Users\\Wildan\\.android\\build-cache\\43d39dcfadcd4cac838a9881ed21680c2e6024d7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\XII\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Users\\Wildan\\.android\\build-cache\\43d39dcfadcd4cac838a9881ed21680c2e6024d7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\XII\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\Users\\Wildan\\.android\\build-cache\\5b0ea02c4a58f07d6244ed8ac19ea107345a7ded\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\XII\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Users\\Wildan\\.android\\build-cache\\43d39dcfadcd4cac838a9881ed21680c2e6024d7\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

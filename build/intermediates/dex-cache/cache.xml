@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\5b0ea02c4a58f07d6244ed8ac19ea107345a7ded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_aa10bfad3799b7e3a50c2ff9e88e17edd6181833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\ef30309a9ab12cc05a0785fe28b1b2579060134d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_348123c5668958ceea21fc730f66f49812868930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\ea779ebb4fdb4c55e43505fff0926a39de99b147\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_f79f6dd4c0f6759d0e49ab53aecf53cdeeab507f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\f9404d9c25ac93078037979af8625f414f87420c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_5fe5f866985beb2dde8eab0bd08342851f989271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\ad763f9a515401293c95ce7f9ce57001bb93354d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_5bdd1011d4b3344bcd7589538d326512a961b027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\5129fde753a2dcb661cdad240c90dadfb21f292e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_4061e3dedf09150efaf6519eaf5fb068044e174c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\7cf7aa86f3d0466c09acde180e351cf9f7af039b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_d8ebdcb584494525f1558a99fc85b940d19bc95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\8d38f9a681975f0f9aa420d43c852233610caf8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_f52bbb0505839e86a881138a396f4debe6d3d7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\20b6f45a2c936525a07bdebf6dfc23e00fbb7550\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_c23c95f2fd0b1becfdbf2cf9a9c3d44946bcfd69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\3cb7d5eb70a5da1deb9d5cc2323991e01db8f1be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_c1e406b8c304b43ce04e7ac399fced778da9ae15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_7088a802fbbe88197274d62d0c045c5932d4a906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\8365e4f99f85eabb54951fa7a2ff8db4fa3586b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_2f79115b7fcb06351c17c2ffdf21d45f5a6be408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\338823e37cfdcdacf97d0d500aa14bb642030758\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_3877a61e942d640da3d6552627cb8369920b1b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\43d39dcfadcd4cac838a9881ed21680c2e6024d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_f48ec2b4694657e36245cbf9e2e8f0f594f56891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\67ae79b09662ad6e8385a04568247133551927ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_0c3d1ed24d940e5cb790e4b478704b2b169b6376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\7c15a2e3cf1a6167de8e486894898ddf758cbf4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_5489d7307cea0511e6ad0e90ad1d0d14036cbe75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Wildan\.android\build-cache\00fa03d04fee52a574fc07a57fda51812392a9d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\AndroidStudio\XII\AdvancedAndroid_Shushme-StarterCode\app\build\intermediates\pre-dexed\debug\classes_03313080d6d653d0d14703103b02012571ead399.jar" />
+    </item>
+
+</items>

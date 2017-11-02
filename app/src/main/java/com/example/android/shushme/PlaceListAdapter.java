@@ -85,7 +85,7 @@ public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.Plac
     @Override
     public int getItemCount() {
         if(mPlaces==null) return 0;
- +        return mPlaces.getCount();
+        return mPlaces.getCount();
     }
 
     /**
